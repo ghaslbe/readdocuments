@@ -1,7 +1,7 @@
 https://www.linkedin.com/in/guentherhaslbeck/
 
 
-fakerechnungen und echte dokumente erkennen mit #ki
+*fakerechnungen und echte dokumente erkennen mit #ki*
 
 
 #Dokumente erkennen und zu klassifizieren. Mit #lokaler #Ki mit #ollama und #gemma2
